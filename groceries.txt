@@ -4,3 +4,4 @@
 4. mango
 5. papaya
 6. berry
+7. melon
